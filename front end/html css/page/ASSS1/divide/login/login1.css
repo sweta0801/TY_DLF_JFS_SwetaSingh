@@ -1,0 +1,28 @@
+.f1 {
+    background-image: url("images3.jpg");
+    height: 1150px;
+    width: 1150px;
+   
+}
+li {
+    list-style-type:none; 
+    display: inline;
+    padding: 5px;
+    text-decoration: none;
+}
+
+   
+
+
+.one
+{
+    list-style-type:none;
+    text-decoration: none;
+    
+}
+.two
+{
+    float: right;    
+    margin-right: 10px;
+    text-decoration: none;
+}

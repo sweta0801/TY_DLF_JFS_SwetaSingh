@@ -1,0 +1,105 @@
+li {
+    list-style-type:none; 
+    display: inline;
+    padding: 5px;
+    text-decoration: none;
+}
+.b1 {
+    background-image: url("images3.jpg");
+    background-size: 1250px;
+   
+
+}
+.one
+{
+    list-style-type:none;
+    text-decoration: none;
+    
+}
+.two
+{
+    float: right;    
+    margin-right: 10px;
+    text-decoration: none;
+}
+
+.full
+{
+    width: 1250px;
+    height: 600px;
+    
+    
+}
+
+.one1 
+{
+    background-image: url("images6.jpg");
+    border: navy solid;
+    width: 30%;
+   height: 250px;
+   margin-left: 20px;
+   margin-top:20px;
+   
+   
+
+}
+.two2{
+    border:red solid;
+    width: 30%;
+    height:250px ;
+    margin-left: 20px;
+    margin-top:50px;
+}
+.three3
+{
+    background-image: url("images7.jpg");
+    background-size: 350px;
+    border:pink solid;
+    width: 30%;
+    height: 250px;
+    margin-left: 430px;
+    margin-top: -560px;
+    
+}
+.four4 {
+    border:yellow solid;
+    width: 30%;
+    height: 250px;
+    margin-left: 430px;
+    margin-top: 50px;
+    
+
+   
+
+
+}
+.five5{
+    background-image: url("images9.jpg");
+    background-size: 300px;
+    border:green solid;
+    width: 30%;
+    height: 250px;
+    margin-top: -560px;
+    float:right;
+    margin-right:20px;
+
+    
+    
+}
+.six6{
+    background-image: url("images8.jpg");
+    background-size: 300px ;
+    border:blueviolet solid;
+    width: 30%;
+    height: 250px;
+    margin-top: -260px;
+    float: right;
+    margin-right: 20px;
+
+    
+    
+}
+
+
+
+

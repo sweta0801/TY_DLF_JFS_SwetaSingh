@@ -1,0 +1,43 @@
+img {
+    border-radius: 50px ;
+    padding: 5px;
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.two{
+    float: right;
+    display:inline-block; 
+    margin-right:10px;
+}
+.one{
+    display:inline-block;
+     margin-right:10px;
+}
+h1{
+    font-size: 14;
+    color:red;
+    text-align: center;
+}
+h3{
+    color: red;
+    text-align: center;
+}
+.social{
+    margin-right: 50%;
+    color:rgb(226, 43, 73)
+
+
+    
+}
+ul li{
+
+        
+        display: inline;
+    list-style-type: none;
+}
+
+.d{
+    text-decoration: none;
+    list-style-type: none;
+}
